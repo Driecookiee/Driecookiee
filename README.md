@@ -1,6 +1,10 @@
 ## Hello World! Drie here:)
-
-- jdudeiwi
+ 
+- 🖥️ Kumsay Student 
+- ⌨ Currently Studying Coding
+- 📺 Likes to Binge-Watch
+- 🎵 Likes to Listening to Music 
+- 💰 Future Rich Person (hopefully)
 
 <!--
 **Driecookiee/Driecookiee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
